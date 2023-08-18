@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "day": "Day 1",
+    "time": "10:00 AM - 11:00 AM",
+    "session": "Introduction to Python",
+    "speakerId": 1
+  },
+  {
+    "id": 2,
+    "day": "Day 1",
+    "time": "11:00 AM - 11:30 AM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 3,
+    "day": "Day 1",
+    "time": "11:30 AM - 12:30 PM",
+    "session": "Python Data Structures",
+    "speakerId": 2
+  },
+  {
+    "id": 4,
+    "day": "Day 1",
+    "time": "12:30 PM - 01:00 PM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 5,
+    "day": "Day 1",
+    "time": "01:00 PM - 02:00 PM",
+    "session": "Understanding Python's Object and Data Model",
+    "speakerId": 3
+  },
+  {
+    "id": 6,
+    "day": "Day 1",
+    "time": "02:00 PM - 02:30 PM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 7,
+    "day": "Day 1",
+    "time": "02:30 PM - 03:30 PM",
+    "session": "Error Handling in Python",
+    "speakerId": 4
+  },
+  {
+    "id": 8,
+    "day": "Day 1",
+    "time": "03:30 PM - 04:00 PM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 9,
+    "day": "Day 1",
+    "time": "04:00 PM - 05:00 PM",
+    "session": "Decorators and Generators: Advanced Python Features",
+    "speakerId": 5
+  },
+  {
+    "id": 10,
+    "day": "Day 2",
+    "time": "10:00 AM - 11:00 AM",
+    "session": "Decorators and Generators: Advanced Python Features",
+    "speakerId": 5
+  },
+  {
+    "id": 11,
+    "day": "Day 2",
+    "time": "11:00 AM - 11:30 AM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 12,
+    "day": "Day 2",
+    "time": "11:30 AM - 12:30 PM",
+    "session": "Python for Web Development: Django and Flask",
+    "speakerId": 6
+  },
+  {
+    "id": 13,
+    "day": "Day 2",
+    "time": "12:30 PM - 01:00 PM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 14,
+    "day": "Day 2",
+    "time": "01:00 PM - 02:00 PM",
+    "session": "Building REST APIs with Python",
+    "speakerId": 7
+  },
+  {
+    "id": 15,
+    "day": "Day 2",
+    "time": "02:00 PM - 02:30 PM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 16,
+    "day": "Day 2",
+    "time": "02:30 PM - 03:30 PM",
+    "session": "Testing Python Applications: unittest, pytest and more",
+    "speakerId": 8
+  },
+  {
+    "id": 17,
+    "day": "Day 2",
+    "time": "03:30 PM - 04:00 PM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 18,
+    "day": "Day 2",
+    "time": "04:00 PM - 05:00 PM",
+    "session": "Concurrency and Parallelism in Python: Threads, Processes and Asyncio",
+    "speakerId": 9
+  },
+  {
+    "id": 19,
+    "day": "Day 3",
+    "time": "10:00 AM - 11:00 AM",
+    "session": "Python for Data Analysis: Pandas in depth",
+    "speakerId": 10
+  },
+  {
+    "id": 20,
+    "day": "Day 3",
+    "time": "11:00 AM - 11:30 AM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 21,
+    "day": "Day 3",
+    "time": "11:30 AM - 12:30 PM",
+    "session": "Data Visualization with Python: Matplotlib, Seaborn, and Plotly",
+    "speakerId": 11
+  },
+  {
+    "id": 22,
+    "day": "Day 3",
+    "time": "12:30 PM - 01:00 PM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 23,
+    "day": "Day 3",
+    "time": "01:00 PM - 02:00 PM",
+    "session": "Web Scraping with Python: BeautifulSoup, Scrapy and more",
+    "speakerId": 12
+  },
+  {
+    "id": 24,
+    "day": "Day 3",
+    "time": "02:00 PM - 02:30 PM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 25,
+    "day": "Day 3",
+    "time": "02:30 PM - 03:30 PM",
+    "session": "Python for Machine Learning: Scikit-learn",
+    "speakerId": 13
+  },
+  {
+    "id": 26,
+    "day": "Day 3",
+    "time": "03:30 PM - 04:00 PM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 27,
+    "day": "Day 3",
+    "time": "04:00 PM - 05:00 PM",
+    "session": "Deep Learning with Python: TensorFlow and PyTorch",
+    "speakerId": 14
+  },
+  {
+    "id": 28,
+    "day": "Day 4",
+    "time": "10:00 AM - 11:00 AM",
+    "session": "Deep Learning with Python: TensorFlow and PyTorch",
+    "speakerId": 14
+  },
+  {
+    "id": 29,
+    "day": "Day 4",
+    "time": "11:00 AM - 11:30 AM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 30,
+    "day": "Day 4",
+    "time": "11:30 AM - 12:30 PM",
+    "session": "Python in Scientific Computing: NumPy and SciPy",
+    "speakerId": 15
+  },
+  {
+    "id": 31,
+    "day": "Day 4",
+    "time": "12:30 PM - 01:00 PM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 32,
+    "day": "Day 4",
+    "time": "01:00 PM - 02:00 PM",
+    "session": "Python for Natural Language Processing: NLTK and Gensim",
+    "speakerId": 16
+  },
+  {
+    "id": 33,
+    "day": "Day 4",
+    "time": "02:00 PM - 02:30 PM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 34,
+    "day": "Day 4",
+    "time": "02:30 PM - 03:30 PM",
+    "session": "Python for Image Processing: PIL and OpenCV",
+    "speakerId": 17
+  },
+  {
+    "id": 35,
+    "day": "Day 4",
+    "time": "03:30 PM - 04:00 PM",
+    "session": "Break",
+    "speakerId": 0
+  },
+  {
+    "id": 36,
+    "day": "Day 4",
+    "time": "04:00 PM - 05:00 PM",
+    "session": "Web Automation with Python: Selenium",
+    "speakerId": 18
+  }
+]

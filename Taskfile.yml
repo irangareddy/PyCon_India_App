@@ -1,0 +1,84 @@
+# https://taskfile.dev
+
+version: '3'
+
+tasks:
+
+  default:
+    summary: |
+      Just a list of documented tasks.
+    silent: true
+    cmds:
+      - task --list
+
+  # Run the Flutter app in development flavor
+  run-dev:
+    cmds:
+      - flutter run --flavor development --target lib/main_development.dart
+    desc: Run the Flutter app in development flavor
+
+  # Run the Flutter app in staging flavor
+  run-staging:
+    cmds:
+      - flutter run --flavor staging --target lib/main_staging.dart
+    desc: Run the Flutter app in staging flavor
+
+  # Run the Flutter app in production flavor
+  run-prod:
+    cmds:
+      - flutter run --flavor production --target lib/main_production.dart
+    desc: Run the Flutter app in production flavor
+
+  # Run tests using very_good package
+  run-vg-tests:
+    cmds:
+      - very_good test
+    desc: Run tests in a Dart or Flutter project using very_good
+
+  # Run tests and collect coverage using very_good package
+  run-vg-tests-coverage:
+    cmds:
+      - very_good test --coverage
+    desc: Run tests and collect coverage using very_good
+
+  # Run tests and enforce 100% coverage using very_good package
+  run-vg-tests-full-coverage:
+    cmds:
+      - very_good test --coverage --min-coverage 100
+    desc: Run tests and enforce 100% coverage using very_good
+
+  # Run tests recursively using very_good package
+  run-vg-tests-recursive:
+    cmds:
+      - very_good test --recursive
+    desc: Run tests recursively using very_good
+
+  # Install packages using very_good package
+  install-vg-packages:
+    cmds:
+      - very_good packages get
+    desc: Install packages in the current directory using very_good
+
+  # Install packages recursively using very_good package
+  install-vg-packages-recursive:
+    cmds:
+      - very_good packages get --recursive
+    desc: Install packages recursively using very_good
+
+  # Format Flutter code using dartfmt
+  format:
+    cmds:
+      - dart format .
+    desc: Format Flutter code using dartfmt
+
+  # Flutter clean
+  clean:
+    cmds:
+      - flutter clean
+    desc: Run flutter clean command
+
+  # Analyze Flutter code for errors and warnings
+  analyze:
+    cmds:
+      - flutter analyze
+    desc: Analyze Flutter code for errors and warnings

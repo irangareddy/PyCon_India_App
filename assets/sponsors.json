@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Google",
+        "logo": "https://asset.brandfetch.io/id6O2oGzv-/idNEgS9h8q.jpeg",
+        "level": "Gold"
+    },
+    {
+        "name": "Microsoft",
+        "logo": "https://asset.brandfetch.io/idchmboHEZ/idtz-2CKRH.jpeg",
+        "level": "Gold"
+    },
+    {
+        "name": "Facebook",
+        "logo": "https://asset.brandfetch.io/idpKX136kp/idQBiBTxsm.jpeg",
+        "level": "Silver"
+    },
+    {
+        "name": "Netflix",
+        "logo": "https://asset.brandfetch.io/ideQwN5lBE/id2s0n7J5Z.jpeg",
+        "level": "Silver"
+    },
+    {
+        "name": "IBM",
+        "logo": "https://asset.brandfetch.io/idffR1OTyi/id2SFknkJZ.jpeg",
+        "level": "Bronze"
+    },
+    {
+        "name": "Amazon Web Services",
+        "logo": "https://asset.brandfetch.io/idYwGY4LgH/idAeCbMakF.png",
+        "level": "Bronze"
+    }
+  ]
+  
